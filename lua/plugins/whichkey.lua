@@ -44,6 +44,12 @@ wk.register({
     c = {
         name = "Color Schemes",
         s = "Open"
+    },
+
+    v = {
+        name = "VenvSelector",
+        s = "VenvSelect",
+        c = "VenvSelectCached"
     }
 
 }, {prefix = "<leader>"})

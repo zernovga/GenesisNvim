@@ -25,6 +25,7 @@ A minimalistic nvim config aimed at Python developers. It is a lightweight repla
 ![Images](Images/5.png)
 
 ## 🌟 What it is?
+
 - There are many forks of nvim, but what does this one do? The main purpose of this config is to create a minimal environment for Python development, so that it is not resource-hungry and can be deployed quickly on Linux systems.
 - It can be difficult for beginners to install all the necessary plugins and LSP servers to get started. Here you don't need to do anything, just run a few commands to install and immediately use auto-tips, Ruff formatting, Mypy fixes and all the other tricks without setting up configurations.
 
